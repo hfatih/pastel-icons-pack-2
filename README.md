@@ -32,7 +32,7 @@
 
 ## Overview
 
-**Pastel Glass Icons - Vol 2 (Sunset Edition)** is an ultra-high-definition, smooth pastel glass icon collection crafted specifically for **Elgato Stream Deck**, **Evoxdeck**, **Loupedeck**, and **Touch Portal**.
+**Pastel Glass Icons - Vol 2 (Sunset Edition)** is an ultra-high-definition, smooth pastel glass icon collection crafted specifically for **Stream & Macro Decks**, **Evoxdeck**, **Loupedeck**, and **Touch Portal**.
 
 Each icon is rendered on a precision superellipse ($p=3.6, r=52$) squircle base at Retina $128\times 128$ resolution, combining airy translucent glass gradients with a subtle glass rim highlight.
 
@@ -79,7 +79,7 @@ You can preview, search, filter and experience all 2,000 icons directly in your 
 flowchart TD
     A["Download .evoxpack<br/>from GitHub Releases"] --> B{"Target Software"}
     B -->|"Evoxdeck"| C["One-Click Import<br/>Double click or Drag into Evoxdeck"]
-    B -->|"Elgato Stream Deck"| D["Extract icons/ folder<br/>Assign PNG directly to keys"]
+    B -->|"Stream & Macro Decks"| D["Extract icons/ folder<br/>Assign PNG directly to keys"]
     C --> E["Instant 2,000 Key Selection"]
     D --> E
 ```
@@ -89,9 +89,9 @@ flowchart TD
 2. Double-click the file or open **Evoxdeck** ➔ **Settings** ➔ **Icon Packs** ➔ **Import Pack**.
 3. All 2,000 icons and categories will appear instantly in your Evoxdeck library with search & filter.
 
-### 2. Elgato Stream Deck
+### 2. Stream & Macro Decks
 1. Extract `icons/` folder from the repository or `.evoxpack` (it's a zip container).
-2. In the Elgato Stream Deck configuration software, drag and drop any PNG onto a key slot.
+2. In the Stream & Macro Decks configuration software, drag and drop any PNG onto a key slot.
 
 ---
 
